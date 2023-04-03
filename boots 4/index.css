@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} form {
+    width: 420px;
+    height: 520px;
+    margin: 0 auto;
+    padding-top: 200px;
+} .form-img > img {
+    height: 90px;
+} form > button {
+    width: 100%;
+} .form-img {
+    display: flex;
+    justify-content: center;
+} .form-info > h3 {
+    text-align: center;
+} .form-info > p {
+    text-align: center;
+} form > p {
+    text-align: center;
+} .form-info > p >  a {
+    text-decoration: none;
+}   .form-info > p >  a:hover {
+    text-decoration: underline;
+}  
